@@ -1,0 +1,33 @@
+body{
+    background-size: cover;
+}
+
+a {
+    font-family: 'Josefin Sans', sans-serif;
+    width: 200px;
+    border-radius: 10px;
+    background-color: lightgray;
+    color: lightslategrey;
+    font-size: 20px;
+}
+
+.heading {
+    width: 100%;
+    margin-top: 0;
+    font-size: 60px;
+    background-color: #5a3d2b;
+    color: #EDEAE2;
+    padding-bottom: 10px;
+    font-family: 'Zen Tokyo Zoo', cursive;
+}
+
+#copyright{
+    font-family: 'Josefin Sans', sans-serif;
+    position: fixed;
+    color: #ffffff;
+    bottom: 0;
+    width: 100%;
+    background-color: #545c66;
+    line-height: 3;
+    text-align: center;
+}
